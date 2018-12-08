@@ -1,4 +1,5 @@
 # vuetify-dashboard
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+simple todo dashboard using vuetify and vue-cli for testing purposes
+>>>>>>> 0fd07dce4aa8fa0945dcb933c707e3799319d409
